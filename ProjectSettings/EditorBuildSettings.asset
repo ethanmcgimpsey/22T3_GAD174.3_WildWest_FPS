@@ -5,16 +5,31 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/FPS/Scenes/IntroMenu.unity
     guid: 56e3faabc5bb30f49a68bb8f1292f988
-  - enabled: 1
+  - enabled: 0
     path: Assets/FPS/Scenes/WinScene.unity
     guid: 037d06fbede2b4041a843d9ee6fe750c
-  - enabled: 1
+  - enabled: 0
     path: Assets/FPS/Scenes/LoseScene.unity
     guid: 72e5c65a45893714484002914e3fd521
-  - enabled: 1
+  - enabled: 0
     path: Assets/FPS/Scenes/MainScene.unity
     guid: d794a2ef8ba31d847ad3c19d03e2ddb9
+  - enabled: 1
+    path: Assets/WildWest Project/Scene/WN_MainMenu.unity
+    guid: 23839d541ee25f2429a783e9cc2aed00
+  - enabled: 1
+    path: Assets/WildWest Project/Scene/WN_ContinueScene.unity
+    guid: 2b6994ea477d007499ca2a112a95dcd6
+  - enabled: 1
+    path: Assets/WildWest Project/Scene/WN_LoseScene.unity
+    guid: 2798738fd087678459a9205867994a24
+  - enabled: 1
+    path: Assets/WildWest Project/Scene/WN_Test.unity
+    guid: 0b70ad43bd194cd46bfc92dfef79105c
+  - enabled: 1
+    path: Assets/WildWest Project/Scene/WN_WinScene.unity
+    guid: 47d5a5be960c50c4f88da16954555dfd
   m_configObjects: {}
