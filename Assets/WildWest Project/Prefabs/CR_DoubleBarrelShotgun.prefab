@@ -324,7 +324,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7512013466744664413}
   m_Layer: 0
-  m_Name: DoubleBarrelShotgun
+  m_Name: CR_DoubleBarrelShotgun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
