@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.3440132, g: 0.09567595, b: 0.104028046, a: 1}
+  m_IndirectSpecularColor: {r: 0.34404823, g: 0.09565599, b: 0.10394842, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2434,7 +2434,7 @@ PrefabInstance:
     - target: {fileID: 2772048009068598753, guid: 79452be7e6cc95a4c8b99eb02ee43c6c,
         type: 3}
       propertyPath: m_Name
-      value: Pickup_Axe
+      value: CR_Pickup_Axe
       objectReference: {fileID: 0}
     - target: {fileID: 8315757439305141902, guid: 79452be7e6cc95a4c8b99eb02ee43c6c,
         type: 3}
