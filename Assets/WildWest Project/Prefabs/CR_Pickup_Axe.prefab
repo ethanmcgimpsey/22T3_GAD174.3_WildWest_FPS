@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6615520387926917632}
   - component: {fileID: 8315757439305141902}
   m_Layer: 0
-  m_Name: Pickup_Axe
+  m_Name: CR_Pickup_Axe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
