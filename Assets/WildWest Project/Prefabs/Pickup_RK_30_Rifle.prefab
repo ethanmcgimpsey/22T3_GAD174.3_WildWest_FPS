@@ -45,7 +45,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 3730a2801c1784541b02410475a0641d,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.5317761
+      value: -0.0025062836
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3730a2801c1784541b02410475a0641d,
         type: 3}
@@ -55,7 +55,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 3730a2801c1784541b02410475a0641d,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.846885
+      value: -0.9999969
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3730a2801c1784541b02410475a0641d,
         type: 3}
@@ -70,7 +70,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 3730a2801c1784541b02410475a0641d,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -115.749
+      value: -180.287
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3730a2801c1784541b02410475a0641d,
         type: 3}
@@ -225,7 +225,7 @@ MonoBehaviour:
   AimOffset: {x: 0, y: 0, z: 0}
   AutomaticReload: 1
   HasPhysicalBullets: 0
-  ClipSize: 30
+  ClipSize: 6
   ShellCasing: {fileID: 0}
   EjectionPort: {fileID: 0}
   ShellCasingEjectionForce: 2
