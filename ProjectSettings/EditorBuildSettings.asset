@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/WildWest Project/Scene/WN_WinScene.unity
     guid: 47d5a5be960c50c4f88da16954555dfd
+  - enabled: 1
+    path: Assets/WildWest Project/WN_TEST/18CowBoys.unity
+    guid: c37098a67587ae04ea8f60666de77098
   m_configObjects: {}

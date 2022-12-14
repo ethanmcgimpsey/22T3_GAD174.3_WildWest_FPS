@@ -77,10 +77,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828abdfaec1bdff4dbda622331d65ba5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  VerticalBobFrequency: 1
-  BobbingAmount: 0.3
-  RotatingSpeed: 360
-  PickupSfx: {fileID: 8300000, guid: 8dfdbc346713580429db9079ad1ff964, type: 3}
+  VerticalBobFrequency: 0.97
+  BobbingAmount: 0.4
+  RotatingSpeed: 20.22
+  PickupSfx: {fileID: 8300000, guid: e9f26cb58273cb443a7b439d4b968ffe, type: 3}
   PickupVfxPrefab: {fileID: 18133231791472539, guid: e44fc97440f45e946a0bdbdd460acfb9,
     type: 3}
   HealAmount: 40
