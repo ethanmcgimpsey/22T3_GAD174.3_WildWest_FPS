@@ -153,7 +153,7 @@ MonoBehaviour:
   DeathVfx: {fileID: 8950624839484268180, guid: 2a8f5052fe50f7b41b17149abb0f7414,
     type: 3}
   DeathVfxSpawnPoint: {fileID: 381893446485871685}
-  LootPrefab: {fileID: 919132149155446097, guid: 89d97f5085b72954aa481a5a93370676,
+  LootPrefab: {fileID: 329618737530734982, guid: 10cad20444f88b8438e7214d3f2f5dda,
     type: 3}
   DropRate: 1
   PathReachingRangeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
