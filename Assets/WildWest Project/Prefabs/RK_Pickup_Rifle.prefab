@@ -284,7 +284,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5939648291637999260}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -15.34, y: 0.652, z: 6.09}
+  m_LocalPosition: {x: -15.34, y: 0.18, z: 6.09}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -629,15 +629,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   WeaponName: Rifle
-  WeaponIcon: {fileID: 21300000, guid: 8cbb10368086f014a8b7fc8932e7f436, type: 3}
+  WeaponIcon: {fileID: 21300000, guid: b085816584ed7ce43a0f12b4e0f50e8b, type: 3}
   CrosshairDataDefault:
-    CrosshairSprite: {fileID: 21300000, guid: 2962952d6e5ae7342a298d45a3945069, type: 3}
-    CrosshairSize: 45
-    CrosshairColor: {r: 1, g: 1, b: 1, a: 0.34117648}
+    CrosshairSprite: {fileID: 21300000, guid: 00fc10027639f05448a0cdf4ec223fb6, type: 3}
+    CrosshairSize: 125
+    CrosshairColor: {r: 0.42499793, g: 1, b: 0, a: 0.78039217}
   CrosshairDataTargetInSight:
-    CrosshairSprite: {fileID: 21300000, guid: 2962952d6e5ae7342a298d45a3945069, type: 3}
-    CrosshairSize: 35
-    CrosshairColor: {r: 1, g: 0, b: 0, a: 1}
+    CrosshairSprite: {fileID: 21300000, guid: 00fc10027639f05448a0cdf4ec223fb6, type: 3}
+    CrosshairSize: 125
+    CrosshairColor: {r: 0.3679245, g: 0, b: 0.035538197, a: 1}
   WeaponRoot: {fileID: 6822029257869808528}
   WeaponMuzzle: {fileID: 6822029257825765312}
   ShootType: 0
@@ -648,7 +648,7 @@ MonoBehaviour:
   BulletsPerShot: 6
   RecoilForce: 1
   AimZoomRatio: 1
-  AimOffset: {x: 0, y: 0.59, z: 0}
+  AimOffset: {x: 0, y: 0.2, z: 0}
   AutomaticReload: 1
   HasPhysicalBullets: 0
   ClipSize: 30
@@ -666,7 +666,7 @@ MonoBehaviour:
   WeaponAnimator: {fileID: 0}
   MuzzleFlashPrefab: {fileID: 0}
   UnparentMuzzleFlash: 0
-  ShootSfx: {fileID: 0}
+  ShootSfx: {fileID: 8300000, guid: 876dd57afc273744a9ecbedaf006a5e7, type: 3}
   ChangeWeaponSfx: {fileID: 0}
   UseContinuousShootSound: 0
   ContinuousShootStartSfx: {fileID: 0}

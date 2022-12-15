@@ -100,18 +100,18 @@ MonoBehaviour:
   BulletSpreadAngle: 0
   BulletsPerShot: 1
   RecoilForce: 1
-  AimZoomRatio: 0.8
+  AimZoomRatio: 0.5
   AimOffset: {x: 0, y: 0, z: 0}
   AutomaticReload: 1
   HasPhysicalBullets: 0
-  ClipSize: 30
+  ClipSize: 1
   ShellCasing: {fileID: 0}
   EjectionPort: {fileID: 0}
   ShellCasingEjectionForce: 2
   ShellPoolSize: 1
-  AmmoReloadRate: 2
-  AmmoReloadDelay: 2
-  MaxAmmo: 5
+  AmmoReloadRate: 1
+  AmmoReloadDelay: 5
+  MaxAmmo: 2
   AutomaticReleaseOnCharged: 0
   MaxChargeDuration: 1.4
   AmmoUsedOnStartCharge: 1
