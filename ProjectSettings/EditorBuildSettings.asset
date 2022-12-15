@@ -21,8 +21,8 @@ EditorBuildSettings:
     path: Assets/WildWest Project/Scene/WN_MainMenu.unity
     guid: 23839d541ee25f2429a783e9cc2aed00
   - enabled: 1
-    path: Assets/WildWest Project/Scene/WN_Test.unity
-    guid: 0b70ad43bd194cd46bfc92dfef79105c
+    path: Assets/WildWest Project/Scene/CR_Town_Test.unity
+    guid: 581e30b85373cd04894447fe48d2ac58
   - enabled: 1
     path: Assets/WildWest Project/Scene/WN_ContinueScene.unity
     guid: 2b6994ea477d007499ca2a112a95dcd6
