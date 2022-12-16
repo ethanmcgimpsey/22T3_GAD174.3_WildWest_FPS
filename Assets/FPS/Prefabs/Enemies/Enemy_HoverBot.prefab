@@ -1492,6 +1492,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasicBot
       objectReference: {fileID: 0}
+    - target: {fileID: 9190989826863077398, guid: 0589e5d1a71a8e7439d15c67ec60e204,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 54838a4a29307624495bf2e5266f268a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0589e5d1a71a8e7439d15c67ec60e204, type: 3}
 --- !u!1 &7200799301958187830 stripped
