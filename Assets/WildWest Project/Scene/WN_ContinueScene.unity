@@ -1450,7 +1450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0800a5640911fde4eae36dfe12d46900, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelToLoad: 
+  LevelToLoad: WN_LoseScene
   timer: 10
   ClockTimer: {fileID: 1351109460}
   DisableTimer: {fileID: 1351109457}
@@ -1874,7 +1874,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9d73053268a2ae48bb9e7d4bf6419fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: WN_Test
+  SceneName: CR_Town_Test
 --- !u!114 &1814912634
 MonoBehaviour:
   m_ObjectHideFlags: 0

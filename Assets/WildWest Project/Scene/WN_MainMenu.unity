@@ -888,7 +888,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9d73053268a2ae48bb9e7d4bf6419fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: WN_Test
+  SceneName: CR_Town_Test
 --- !u!114 &644314881
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1169,7 +1169,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 30.8245, y: 0}
+  m_AnchoredPosition: {x: 30.824524, y: 0}
   m_SizeDelta: {x: 61.649, y: 67.1759}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &772983518
